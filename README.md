@@ -2,10 +2,9 @@
 
 
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-</p>
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+</div>
 
 <!--
 <h3>🚀 About Me</h3> 
@@ -56,11 +55,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">🚀 Hello, I'm Ahmed Tarek! ♥</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-</p>
-<br/>
 
 
