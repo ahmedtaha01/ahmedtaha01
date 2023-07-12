@@ -1,8 +1,7 @@
 <h1 align="center">Hello! 👋 My Name is Ahmed, Welcome To My Github Profile ♥</h1>
 
 
-<br/>
-<br/>
+
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
